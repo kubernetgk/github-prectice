@@ -9,3 +9,6 @@ git status
  git restore testing.py
  clear
   git status
+  git remote add origin https://github.com/kubernetgk/github-prectice.git
+  275  git remote -v
+  276  git push origin master
