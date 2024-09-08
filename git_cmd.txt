@@ -1,0 +1,11 @@
+ git init
+git status
+ git add testing.py 
+git status
+git commit -m "added and testing"
+git status
+ rm testing.py 
+git status
+ git restore testing.py
+ clear
+  git status
